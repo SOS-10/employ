@@ -1,0 +1,13 @@
+/* This resets the browser's default behavior */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: #1a1d21; /* Matches your app background */
+  overflow-x: hidden; /* Stops horizontal scrolling white space */
+}
