@@ -22,7 +22,14 @@ To create a card-based UI layout using Bootstrap components.
 ![Experiment 2 Screenshot](./screenshots/screenshot.png)
 
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-29 104311" src="https://github.com/user-attachments/assets/46a8fe4f-673b-4046-9e89-a6eaf3547606" />
+
+
+
 ![Experiment 2 Screenshot 4](./screenshots/screenshot-4.png)
+
+
+
 
 
 
