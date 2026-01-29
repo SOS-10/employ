@@ -21,6 +21,14 @@ To create a card-based UI layout using Bootstrap components.
 
 ![Experiment 2 Screenshot](./screenshots/screenshot.png)
 
+**Additional screenshot**
+
+![Experiment 2 Screenshot 2](./screenshots/screenshot-2.png)
+
+**Third screenshot**
+
+![Experiment 2 Screenshot 3](./screenshots/screenshot-3.png)
+
 
 
 ---
